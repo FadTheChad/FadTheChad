@@ -6,7 +6,7 @@
 
   ![Fad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadTheChad&show_icons=true&theme=dark&count_private=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadTheChad&theme=dark&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadTheChad&theme=dark&count_private=true&layout=compact)
 
   ![FadBot Github](https://github-readme-stats.vercel.app/api/pin/?username=FadTheChad&repo=FadBot&theme=dark)
 <!---
