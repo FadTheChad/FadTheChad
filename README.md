@@ -1,8 +1,8 @@
 - 👋 Yo, I’m Fad
-- 👀 I’m interested in Discord Bot Development and discord.js.
-- 🌱 I’m currently learning TypeScript (kinda).
+- 👀 I’m interested in Discord Bot Development and discord.js using TypeScript.
+- 🌱 I’m currently learning NestJS.
 - 📫 You can reach me through discord `Fad The Chad (DankML)#8516` but i might have my DMs off. I am also on [Twitter](https://twitter.com/DankML_Pk).
-- ⚙️ I am currently working on [FadBot](https://github.com/FadTheChad/FadBot) and Tentro.
+- ⚙️ I am currently working on [FadBot](https://github.com/FadTheChad/FadBot), formerly mostly Tentro, and other projects. Also working with Norden.
 
   ![Fad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadTheChad&show_icons=true&theme=dark&count_private=true)
 
