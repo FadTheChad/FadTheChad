@@ -13,7 +13,7 @@ Below is my "very good" code.
 ```js
   if (fadsBrain.has('coding knowledge')) console.log('yay')
 
-  TypeError: Cannot read properties of undefined (reading 'fadsBrain')
+  TypeError: Cannot read properties of undefined (reading 'has')
 ```
 
 As you can see by the above example, i write readable code and never get errors (real)
