@@ -31,6 +31,8 @@ Some projects I am currently working on/with include:
 - [Rizz](https://github.com/Rizz)
   
   ![FadBot Github](https://github-readme-stats.vercel.app/api/pin/?username=FadTheChad&repo=FadBot&theme=dark)
+  
+  ![Rizz Github](https://github-readme-stats.vercel.app/api/pin/?username=FadTheChad&repo=Rizz&theme=dark)
 
 ### Stats
   ![Fad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadTheChad&show_icons=true&theme=dark&count_private=true)
