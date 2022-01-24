@@ -29,13 +29,13 @@ Some projects I am currently working on/with include:
 - [FadBot](https://github.com/FadTheChad/FadBot) [Main Project]
 - [Norden](https://github.com/TeamNorden) [Member]
 - [Rizz](https://github.com/Rizz)
+  
+  ![FadBot Github](https://github-readme-stats.vercel.app/api/pin/?username=FadTheChad&repo=FadBot&theme=dark)
 
 ### Stats
   ![Fad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadTheChad&show_icons=true&theme=dark&count_private=true)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadTheChad&theme=dark&count_private=true&layout=compact)
-
-  ![FadBot Github](https://github-readme-stats.vercel.app/api/pin/?username=FadTheChad&repo=FadBot&theme=dark)
 <!---
 FadTheChad/FadTheChad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
