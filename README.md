@@ -6,7 +6,7 @@
 
 - I’m interested in Discord Bot Development and discord.js using TypeScript.
 
-- I’m currently learning NestJS and NextJS.
+- I’m currently learning NestJS and C#.
 
 Below is my "very good" code.
 
