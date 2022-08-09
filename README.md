@@ -19,7 +19,7 @@ Below is my "very good" code.
 As you can see by the above example, i write readable code and never get errors (real)
 
 ### How To Reach Me
-You can reach me through Discord `Fad The Chad (DankML)#8516` but i might have my DMs off. 
+You can reach me through Discord `Fad The Chad#8516` but i might have my DMs off. 
 
 I am also on [Twitter](https://twitter.com/DankML_Pk).
 
