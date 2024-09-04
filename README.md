@@ -1,5 +1,5 @@
 # Fad F
-## Hello There!
+## 👋 Hello There!
 - In midst of my journey of learning CS
 - Love maths (kinda)
 - Currently learning C
